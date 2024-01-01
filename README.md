@@ -1,1 +1,2 @@
 # 2D-Board-Game
+This code executes a game board with tiles and players utilizing the raylib library. It includes a turn-based framework where players can throw a dice to move their tokens on the board. The code handles mouse collaborations for tossing the dice and moving the players. It gives a fundamental structure to a game board, which can be redone and extended for further developed ongoing interaction.
